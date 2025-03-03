@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🦊 Hi! I'm FetchFox](README.md)
+* [🦊 Welcome to FetchFox](README.md)
 * [😎 Getting Started](getting-started.md)
 
 ## LinkedIn

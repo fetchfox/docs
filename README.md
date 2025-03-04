@@ -1,6 +1,6 @@
 # 🦊 Welcome to FetchFox
 
-<figure><img src=".gitbook/assets/scrape any website.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/scrapeanywebsite.png" alt=""><figcaption></figcaption></figure>
 
 ### What Is Fetchfox?
 

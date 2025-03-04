@@ -14,7 +14,7 @@ What are some examples? Check below:
 
 You name it, we scrape it.
 
-### TL;DR ;
+### TL;DR
 
 What can FetchFox do?
 

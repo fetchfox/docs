@@ -12,7 +12,7 @@ Feel free to jump to any of the categories below.
 This guide is organized into 5 sections.
 {% endhint %}
 
-### Quickstart
+### [Quickstart](../getting-started/quickstart-pokemon-edition.md)
 
 Learn how to create an account, navigate the dashboard, and understand the pricing model.
 

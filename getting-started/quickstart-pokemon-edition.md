@@ -4,9 +4,9 @@ In this quick start guide, we'll show you how to set up a task, run it, and expo
 
 <figure><img src="../.gitbook/assets/pokemon.png" alt=""><figcaption></figcaption></figure>
 
-### Step1. Sign up for an account
+### Step 1. Sign up for an account
 
-First things first, you need an account to extract data.&#x20;
+First things first, you need an account to extract data.
 
 Go ahead and sign up which takes a few seconds.
 
@@ -20,13 +20,13 @@ Once you’re logged in, enter this URL:
 https://pokemondb.net/pokedex/all
 ```
 
-Underneath it, enter this prompt:&#x20;
+Underneath it, enter this prompt:
 
 ```
 Scrape 100 pokemon for: name, type, and number
 ```
 
-Then click on the orange arrow to “plan” the scrape (our AI gathers the information needed to run your prompt).&#x20;
+Then click on the orange arrow to “plan” the scrape (our AI gathers the information needed to run your prompt).
 
 <figure><img src="../.gitbook/assets/planscrape.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,8 +38,8 @@ It’ll then take a few seconds to load.
 
 Next, you’ll be taken to this page below where you’ll see some additional categories.
 
-1. Starting URLs section&#x20;
-2. Find more URLs section&#x20;
+1. Starting URLs section
+2. Find more URLs section
 3. Extract data section
 
 You can uncheck “Limit number of results” if you don’t want to add a limit to your scrape, but keep in mind that each result costs 1 credit.
@@ -61,4 +61,3 @@ Once it’s done, you can export to Google Sheets or download as CSV and you’r
 <figure><img src="../.gitbook/assets/downloadresults.png" alt=""><figcaption></figcaption></figure>
 
 Congrats on completing your first scrape on FetchFox 🎉
-

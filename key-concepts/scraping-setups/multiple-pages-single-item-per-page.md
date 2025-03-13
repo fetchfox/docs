@@ -4,9 +4,11 @@ icon: '3'
 
 # Multiple Pages / Single Item per Page
 
-_Explanation_: Retrieve one item from multiple pages. For example, let’s say you want the top comment with the most upvotes for each thread. Below is how you can do it with the subreddit /r/SaaS.
+This scraper setup gets goes to many different pages, and gets a single item from each one.
 
-From the previous topic, we added a field called ‘url’. This has a special meaning which means when we add a new step, it will scrape those URLs.
+For example, let’s say you want the top comment with the most upvotes for each thread. Below is how you can do it with the subreddit /r/SaaS.
+
+From the previous topic, we added a field called ‘url’. This field has a special meaning. It tells FetchFox to open that page on the next step. This makes it to crawl many pages from a single&#x20;
 
 <figure><img src="../../.gitbook/assets/url field special meaning.png" alt=""><figcaption></figcaption></figure>
 

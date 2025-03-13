@@ -2,7 +2,7 @@
 description: Scraping data multiple links from the starting point
 ---
 
-# 🗺️ Deep scrapes
+# Deep scrapes
 
 Sometimes, the data you want to scrape is not on your starting URL. Instead, it is one or more links away. This is called a deep scrape, and FetchFox offers powerful tools to handle this.
 
@@ -16,7 +16,7 @@ This is called a **three level scrape**, as you can see in the diagram below:
 
 <figure><img src="../.gitbook/assets/producthunt_3level.png" alt=""><figcaption><p>A three level scrape to find emails from ProductHunt</p></figcaption></figure>
 
-Each level of the scrape has different information available.&#x20;
+Each level of the scrape has different information available.
 
 * The first level contains a list of companies that hit the frontpage of ProductHunt, and it also has the URLs of their profiles on ProductHunt.
 * The second level has a lot more info, like an extended description of the company, the team members, and also a link to the official website.
@@ -67,6 +67,6 @@ So, lets add an extract step with a field for email. Use this prompt:
 
 Your final scraper should look like this:
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-03-13 at 1.07.00 PM.png" alt=""><figcaption><p>Each level in this scraper gets data from a different page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/final.png" alt=""><figcaption><p>Each level in this scraper gets data from a different page</p></figcaption></figure>
 
 The final output will combine the results from all three steps, and it will include any emails it finds.

@@ -14,7 +14,21 @@ Let's start with a prompt that tells FetchFox to do this. Try the one below:
 >
 > Find the URL of each comment thread on this page, and then on each thread page get the author and text of the top comment.  Extract only the top comment.
 
-(TODO FINISH FROM HERE)
+FetchFox will generate a scraper like this:
+
+<figure><img src="../../.gitbook/assets/many_pages_one_item1.png" alt="" width="375"><figcaption></figcaption></figure>
+
+This scraper starts on https://www.reddit.com/r/SaaS, and then visit each comment thread, as shown in the diagram below.
+
+<figure><img src="../../.gitbook/assets/crawl_diagram.png" alt=""><figcaption></figcaption></figure>
+
+A single starting page goes to multiple thread pages. The results are shown below:
+
+<figure><img src="../../.gitbook/assets/many_results.png" alt="" width="375"><figcaption></figcaption></figure>
+
+As you can see, FetchFox collected data from each comment thread.
+
+TODO CLEAN UP OR REMOVE BELOW
 
 From the previous topic, we added a field called ‘url’. This field has a special meaning. It tells FetchFox to open that page on the next step. This makes it to crawl many pages from a single&#x20;
 

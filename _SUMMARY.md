@@ -2,8 +2,8 @@
 
 ## Introduction
 
-* [🦊 Welcome to FetchFox](README.md)
-* [📚 How This Guide Is Structured](introduction/how-this-guide-is-structured.md)
+* [🦊 Welcome to FetchFox](./)
+* [📚 How This Guide Is Structured](broken-reference)
 
 ## Getting Started
 

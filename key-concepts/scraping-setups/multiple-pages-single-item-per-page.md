@@ -6,7 +6,15 @@ icon: '3'
 
 This scraper setup gets goes to many different pages, and gets a single item from each one.
 
-For example, let’s say you want the top comment with the most upvotes for each thread. Below is how you can do it with the subreddit /r/SaaS.
+For example, let’s say you are scraping comment threads on a Reddit page like https://www.reddit.com/r/SaaS, and you want to get the text of the top comment on each thread. The comment text is not available on the main page, so FetchFox needs to visit the individual pages to get that data.
+
+Let's start with a prompt that tells FetchFox to do this. Try the one below:
+
+> https://www.reddit.com/r/SaaS
+>
+> Find the URL of each comment thread on this page, and then on each thread page get the author and text of the top comment.  Extract only the top comment.
+
+(TODO FINISH FROM HERE)
 
 From the previous topic, we added a field called ‘url’. This field has a special meaning. It tells FetchFox to open that page on the next step. This makes it to crawl many pages from a single&#x20;
 

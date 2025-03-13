@@ -1,9 +1,9 @@
 # Table of contents
 
-* [🦊 Welcome to FetchFox](README.md)
+* [Welcome to FetchFox](README.md)
 * [getting-started](getting-started/README.md)
   * [Quickstart (Pokémon Edition)](getting-started/quickstart-pokemon-edition.md)
-* [integrations](integrations/README.md)
-  * [Webhooks](integrations/webhooks.md)
 * [key-concepts](key-concepts/README.md)
   * [Deep scrapes](key-concepts/deep-scrapes.md)
+* [integrations](integrations/README.md)
+  * [Webhooks](integrations/webhooks.md)

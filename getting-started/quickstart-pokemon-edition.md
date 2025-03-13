@@ -1,5 +1,5 @@
 ---
-icon: bolt
+icon: zap
 ---
 
 # Quickstart (Pokémon Edition)

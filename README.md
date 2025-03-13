@@ -1,4 +1,4 @@
-# 🦊 Welcome to FetchFox
+# Welcome to FetchFox
 
 <figure><img src=".gitbook/assets/scrapeanywebsite.png" alt=""><figcaption></figcaption></figure>
 

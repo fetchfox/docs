@@ -4,11 +4,11 @@ icon: '1'
 
 # Single Page / Single Item
 
-The simplest scraper setup is to scrape one page, adn get one output from that page.
+The simplest scraper setup is to scrape a single page for a single item.
 
-For example, you might want to get the thread title, thread author, upvotes, and number of comments from a single thread on r/NBA.
+For example, you might want to get the thread title, thread author, upvotes, and number of comments from a single thread on r/NBA. You'll give the URL of one thread, and get one row of data.
 
-To get started, use the prompt below.
+To get started, use the prompt below. It gives the URL you want to scrape, and the data you want from that URL.
 
 <figure><img src="../../.gitbook/assets/Run scrape single page singpe result.png" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +16,7 @@ On the next page, click on the pencil icon in the “Extract data” section to 
 
 <figure><img src="../../.gitbook/assets/Change to Single Page - Edit.png" alt=""><figcaption></figcaption></figure>
 
-Then change the field “Items per Page” to “Find exactly one item per page”.
+Then change the field “Items per Page” to “Single”.
 
 <figure><img src="../../.gitbook/assets/Choose Single Item - Save.png" alt=""><figcaption></figcaption></figure>
 

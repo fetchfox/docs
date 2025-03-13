@@ -4,13 +4,15 @@ icon: '2'
 
 # Single Page / Multiple Items
 
-_Explanation_: Extract several items from one page. This could be scraping all the items in one page of the subreddit /r/SaaS.
+This scraper setup gets many items from a single page.
+
+For example, you could be scraping all the threads in one page of the subreddit /r/SaaS.
 
 First, let’s enter our starting “URL” and prompt.
 
 <figure><img src="../../.gitbook/assets/Scraping thread urls.png" alt=""><figcaption></figcaption></figure>
 
-Next, click on the Edit (pencil icon) in the “Extract data” box and for “Items per page” select “Find multiple items per page” and hit save.
+Next, click on the Edit (pencil icon) in the “Extract data” box and for “Items per page” select “Multiple items” and hit "Save".
 
 <figure><img src="../../.gitbook/assets/Select multiple items and save.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,6 +1,6 @@
 ---
 description: Scraping data multiple links from the starting point
-icon: sitemap
+icon: git-merge
 ---
 
 # Deep scrapes

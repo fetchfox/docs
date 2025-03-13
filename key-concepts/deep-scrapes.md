@@ -1,8 +1,9 @@
 ---
 description: Scraping data multiple links from the starting point
+icon: sitemap
 ---
 
-# 🗺️ Deep scrapes
+# Deep scrapes
 
 Sometimes, the data you want to scrape is not on your starting URL. Instead, it is one or more links away. This is called a deep scrape, and FetchFox offers powerful tools to handle this.
 

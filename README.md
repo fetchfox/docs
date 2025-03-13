@@ -1,4 +1,4 @@
-# Welcome to FetchFox
+# 🦊 Welcome to FetchFox
 
 <figure><img src=".gitbook/assets/scrapeanywebsite.png" alt=""><figcaption></figcaption></figure>
 
@@ -8,8 +8,8 @@ FetchFox is an AI web scraper tool that grabs data from any site using plain Eng
 
 What are some examples? Check below:
 
-* Directories? Piece of cake.&#x20;
-* Google Maps listings? Easy-peasy.&#x20;
+* Directories? Piece of cake.
+* Google Maps listings? Easy-peasy.
 * Social media platforms? A walk in the park.
 
 You name it, we scrape it.
@@ -24,7 +24,7 @@ What can FetchFox do?
 
 ### Why FetchFox?
 
-Most web scrapers are a pain (respectfully)—they’re clunky, expensive, and overbuilt. FetchFox cuts through this noise. You start with a URL, you enter your prompt in plain English, you get your data, done. We focus on results, not headaches.&#x20;
+Most web scrapers are a pain (respectfully)—they’re clunky, expensive, and overbuilt. FetchFox cuts through this noise. You start with a URL, you enter your prompt in plain English, you get your data, done. We focus on results, not headaches.
 
 FetchFox stands on 3 key “S” pillars: Simplicity, Speed, and Savvy Savings—ensuring you grab the data you need quickly without burning a hole in your pocket.
 

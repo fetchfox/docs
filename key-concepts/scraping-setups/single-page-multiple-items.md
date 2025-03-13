@@ -10,7 +10,7 @@ For example, you could be scraping all the threads in one page of the subreddit 
 
 First, let’s enter our starting “URL” and prompt.
 
-<figure><img src="../../.gitbook/assets/Scraping thread urls.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Scraping thread urls - FINAL 2.png" alt=""><figcaption></figcaption></figure>
 
 Next, click on the Edit (pencil icon) in the “Extract data” box and for “Items per page” select “Multiple items” and hit "Save".
 

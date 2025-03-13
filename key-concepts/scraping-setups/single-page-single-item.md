@@ -36,6 +36,6 @@ What if you have multiple thread links and want to scrape one output per page?
 
 You can put in 4 starting URLs, and you will get exactly 4 output items.
 
-<figure><img src="../../.gitbook/assets/4 Items results.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 Items results - FINAL.png" alt=""><figcaption></figcaption></figure>
 
 However, copy and pasting multiple URLs is a lot of manual work. We don't recommend doing this often. Instead, lets see how we can have FetchFox automatically find all the URLs for us.

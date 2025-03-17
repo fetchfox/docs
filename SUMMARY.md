@@ -14,6 +14,7 @@
   * [Multiple Pages / Single Item per Page](key-concepts/scraping-setups/multiple-pages-single-item-per-page.md)
   * [Multiple Pages / Multiple Items](key-concepts/scraping-setups/multiple-pages-multiple-items.md)
 * [📡 Deep Scrapes](key-concepts/deep-scrapes.md)
+* [💵 Pricing](key-concepts/pricing.md)
 
 ## Integrations
 

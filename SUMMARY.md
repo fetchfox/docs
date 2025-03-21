@@ -19,3 +19,7 @@
 ## Integrations
 
 * [Webhooks](integrations/webhooks.md)
+
+## Developers
+
+* [HTTP API](developers/http-api.md)

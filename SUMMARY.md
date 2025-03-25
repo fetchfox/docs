@@ -18,8 +18,10 @@
 
 ## Integrations
 
+* [Google Sheets](integrations/google-sheets.md)
 * [Webhooks](integrations/webhooks.md)
 
 ## Developers
 
-* [HTTP API](developers/http-api.md)
+* [HTTP API](developers/http-api/README.md)
+  * [API Reference](developers/http-api/api-reference.md)

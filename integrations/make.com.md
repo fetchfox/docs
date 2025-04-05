@@ -16,7 +16,7 @@ In your new scenario, FetchFox will be the first step. Click the big "+" sign to
 
 The first time you set up an integration, you'll need to connect your FetchFox account. You do this using your API key, which is available on your account settings at [https://fetchfox.ai/settings](https://fetchfox.ai/settings). It starts with "ff\_".
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-04-04 at 21.43.53@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-04-04 at 21.43.53@2x.png" alt=""><figcaption><p>You can find your API key at <a href="https://fetchfox.ai/settings">https://fetchfox.ai/settings</a></p></figcaption></figure>
 
 
 

@@ -18,9 +18,9 @@
 
 ## Integrations
 
-* [Make.com](integrations/make.com.md)
 * [Google Sheets](integrations/google-sheets.md)
 * [Webhooks](integrations/webhooks.md)
+* [Make.com](integrations/make.com.md)
 
 ## Developers
 

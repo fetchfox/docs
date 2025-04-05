@@ -4,7 +4,7 @@ icon: m
 
 # Make.com
 
-You can use Make.com to connect any FetchFox scraper to hundreds of other apps.
+You can use Make.com to connect any FetchFox scraper to hundreds of other apps using our [official Make.com app](https://www.make.com/en/integrations/fetchfox).
 
 To get started, log in to your Make.com account, and create a new scenario.
 

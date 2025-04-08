@@ -22,6 +22,10 @@
 * [Webhooks](integrations/webhooks.md)
 * [Make.com](integrations/make.com.md)
 
+***
+
+* [n8n](n8n.md)
+
 ## Developers
 
 * [HTTP API](developers/http-api/README.md)

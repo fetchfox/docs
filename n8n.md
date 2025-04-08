@@ -62,7 +62,7 @@ The entries here will be passed to the AI, so follow prompt writing best practic
 
 When you're done, click "Test Step". You should see something like this:
 
-<figure><img src=".gitbook/assets/CleanShot 2025-04-08 at 10.30.18@2x.png" alt=""><figcaption><p>The results show companies discussed on r/n8n</p></figcaption></figure>
+<figure><img src=".gitbook/assets/CleanShot 2025-04-08 at 10.38.37@2x.png" alt=""><figcaption><p>The results show companies discussed on r/n8n</p></figcaption></figure>
 
 This is a simple two step scraper workflow, and its very common. First, you find URLs, and then you get some data out of them.
 

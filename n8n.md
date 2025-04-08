@@ -54,7 +54,7 @@ To set up the extraction node, first tell FetchFox which URL to target. Drag the
 
 Then, lets add an extraction field. Click the button that says "Add data field to extract", and add one for company.
 
-<figure><img src=".gitbook/assets/CleanShot 2025-04-08 at 10.27.05@2x.png" alt=""><figcaption><p>Tell FetchFox what to extract</p></figcaption></figure>
+<figure><img src=".gitbook/assets/CleanShot 2025-04-08 at 10.27.05@2x (1).png" alt=""><figcaption><p>Tell FetchFox what to extract</p></figcaption></figure>
 
 The entries here will be passed to the AI, so follow prompt writing best practices. The field description below is a good one for this tutorial:
 

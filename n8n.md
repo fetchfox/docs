@@ -8,6 +8,10 @@ The [n8n](https://n8n.io) app is a powerful workflow automation tool. You can ad
 
 In this tutorial, we'll walk through an example of how you can use FetchFox and n8n to do market research on Reddit.
 
+## Prefer video?
+
+Watch this tutorial as a video:  [Youtube: FetchFox <> n8n](https://youtu.be/-kAJ5KsbcRI)
+
 ## Installation
 
 Make sure you have the FetchFox n8n node installed. You can follow the n8n instructions on [installing community nodes](https://docs.n8n.io/integrations/community-nodes/installation/) to install the "n8n-nodes-fetchfox" node.

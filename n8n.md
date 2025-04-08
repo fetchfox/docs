@@ -14,7 +14,9 @@ Watch this tutorial as a video:  [Youtube: FetchFox <> n8n](https://youtu.be/-kA
 
 ## Installation
 
-Make sure you have the FetchFox n8n node installed. You can follow the n8n instructions on [installing community nodes](https://docs.n8n.io/integrations/community-nodes/installation/) to install the "n8n-nodes-fetchfox" node.
+Make sure you have the FetchFox n8n node installed. Is hosted at [https://github.com/fetchfox/n8n-nodes-fetchfox](https://github.com/fetchfox/n8n-nodes-fetchfox).
+
+You can follow the n8n instructions on [installing community nodes](https://docs.n8n.io/integrations/community-nodes/installation/) for more information.
 
 ## Start by crawling
 

@@ -70,7 +70,7 @@ We can plug this into a larger n8n workflow. For example, you can add a count an
 
 Your final workflow will look something like this:
 
-<figure><img src=".gitbook/assets/CleanShot 2025-04-08 at 10.35.18@2x.png" alt=""><figcaption><p>A full workflow to scrape and summarize data using FetchFox</p></figcaption></figure>
+<figure><img src=".gitbook/assets/CleanShot 2025-04-08 at 10.35.18@2x (1).png" alt=""><figcaption><p>A full workflow to scrape and summarize data using FetchFox</p></figcaption></figure>
 
 The results in the final node should look something like this:
 

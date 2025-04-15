@@ -8,6 +8,7 @@
 
 ## Key Concepts
 
+* [Crawl for URL patterns](key-concepts/crawl-for-url-patterns.md)
 * [⛓️ Scraping Setups](key-concepts/scraping-setups/README.md)
   * [Single Page / Single Item](key-concepts/scraping-setups/single-page-single-item.md)
   * [Single Page / Multiple Items](key-concepts/scraping-setups/single-page-multiple-items.md)

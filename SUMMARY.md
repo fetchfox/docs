@@ -8,12 +8,12 @@
 
 ## Key Concepts
 
-* [Crawl for URL patterns](key-concepts/crawl-for-url-patterns.md)
 * [⛓️ Scraping Setups](key-concepts/scraping-setups/README.md)
   * [Single Page / Single Item](key-concepts/scraping-setups/single-page-single-item.md)
   * [Single Page / Multiple Items](key-concepts/scraping-setups/single-page-multiple-items.md)
   * [Multiple Pages / Single Item per Page](key-concepts/scraping-setups/multiple-pages-single-item-per-page.md)
   * [Multiple Pages / Multiple Items](key-concepts/scraping-setups/multiple-pages-multiple-items.md)
+* [Crawl for URL patterns](key-concepts/crawl-for-url-patterns.md)
 * [📡 Deep Scrapes](key-concepts/deep-scrapes.md)
 * [💵 Pricing](key-concepts/pricing.md)
 

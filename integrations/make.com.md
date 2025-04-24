@@ -8,7 +8,7 @@ You can use Make.com to connect any FetchFox scraper to hundreds of other apps u
 
 To get started, log in to your Make.com account, and create a new scenario.
 
-<figure><img src="../.gitbook/assets/CleanShot 2025-04-04 at 21.38.50@2x.png" alt=""><figcaption><p>Create a new scenario</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-04-23 at 18.05.48@2x.png" alt=""><figcaption><p>Create a new scenario</p></figcaption></figure>
 
 In your new scenario, FetchFox will be the first step. Click the big "+" sign to add a step, and select "Watch for Scraped Data."
 
